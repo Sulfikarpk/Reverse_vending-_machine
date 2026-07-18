@@ -210,7 +210,7 @@ During this project, I gained practical experience in:
 
 -part1 testing (https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/reverse%20vendingmachine%20testing.mp4)
 ---
--part2 testing (https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/reverse_vending_machine_testing2.mp4)
+-part2 testing (https://youtube.com/shorts/mPhIaO_0eBw)
 ---
 -part3 final testing (https://youtube.com/shorts/nCFgtVitJv4)
 ---
