@@ -1,8 +1,26 @@
 # ♻️ Reverse Vending Machine
 
-A smart Reverse Vending Machine developed using **Raspberry Pi 4**, **Arduino Mega**, and **ESP8266** to automatically identify recyclable waste, sort it, reward users for plastic bottle recycling, and notify the operator when the machine is full using IoT.
+A smart Reverse Vending Machine developed using **Raspberry Pi 4**, **Arduino uno**, and **ESP8266** to automatically identify recyclable waste, sort it, reward users for plastic bottle recycling, and notify the operator when the machine is full using IoT.
 
 ---
+
+# Project Photos 
+![Image1 ](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM%20image1.jpeg)
+
+---
+![Image2](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM_image_2.jpeg)
+
+---
+
+# 🎥 Project Demonstration
+
+-part1 testing (https://youtube.com/shorts/mPhIaO_0eBw)
+---
+-part2 testing (https://youtube.com/shorts/nCFgtVitJv4)
+---
+-part3 final testing (https://youtube.com/shorts/EIw-QYAYL1I)
+---
+
 
 # 📖 Project Overview
 
@@ -27,7 +45,7 @@ The objective of this project is to develop an automated recycling system capabl
 # 🎯 Project Aim
 
 - Build an intelligent recycling machine using Embedded Systems.
-- Integrate Raspberry Pi, Arduino Mega, and ESP8266 into a single system.
+- Integrate Raspberry Pi, Arduino uno, and ESP8266 into a single system.
 - Implement real-time image processing.
 - Automate waste segregation.
 - Demonstrate IoT-based monitoring.
@@ -44,7 +62,7 @@ The front side of the machine is equipped with an **Ultrasonic Sensor** that con
 When a user comes near the machine:
 
 - The ultrasonic sensor detects the presence of the user.
-- Arduino Mega activates the front servo motor.
+- Arduino uno activates the front servo motor.
 - The front door automatically opens.
 - After the user inserts the recyclable item, the door closes automatically.
 
@@ -81,7 +99,7 @@ After classification, Raspberry Pi sends a digital output signal to the Arduino 
 If the detected object is a **Plastic Bottle**:
 
 - Raspberry Pi sets Digital Output Pin 1 HIGH.
-- Arduino Mega receives the signal.
+- Arduino uno receives the signal.
 - The internal servo mechanism opens the plastic bottle pathway.
 - The bottle is transferred into the plastic collection compartment.
 
@@ -98,7 +116,7 @@ After successful disposal:
 If the detected object is a **Metal Can**:
 
 - Raspberry Pi sets Digital Output Pin 2 HIGH.
-- Arduino Mega receives the signal.
+- Arduino uno receives the signal.
 - The metal can pathway is opened.
 - The can is transferred into the metal collection compartment.
 
@@ -127,7 +145,7 @@ This allows timely waste collection and prevents overflow.
 | Hardware | Purpose |
 |----------|----------|
 | Raspberry Pi 4 | Image Processing & Decision Making |
-| Arduino Mega | Hardware Control & Servo Management |
+| Arduino uno | Hardware Control & Servo Management |
 | ESP8266 | IoT Communication |
 | Camera Module | Object Image Capture |
 | Ultrasonic Sensor | User Detection |
@@ -169,7 +187,7 @@ This allows timely waste collection and prevents overflow.
 During this project, I gained practical experience in:
 
 - Raspberry Pi Development
-- Arduino Mega Programming
+- Arduino uno Programming
 - ESP8266 IoT Development
 - Python Programming
 - OpenCV Image Processing
@@ -188,7 +206,7 @@ During this project, I gained practical experience in:
 
 # 🚧 Challenges Faced
 
-- Synchronizing Raspberry Pi and Arduino Mega.
+- Synchronizing Raspberry Pi and Arduino uno.
 - Reliable image detection under different lighting conditions.
 - Designing the bottle stopping mechanism.
 - Mechanical alignment of sorting pathways.
@@ -197,23 +215,6 @@ During this project, I gained practical experience in:
 - Building the prototype using recycled electronic components.
 - Testing and debugging hardware and software simultaneously.
 
----
-# Project Photos 
-![Image1 ](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM%20image1.jpeg)
-
----
-![Image2](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM_image_2.jpeg)
-
----
-
-# 🎥 Project Demonstration
-
--part1 testing (https://youtube.com/shorts/mPhIaO_0eBw)
----
--part2 testing (https://youtube.com/shorts/nCFgtVitJv4)
----
--part3 final testing (https://youtube.com/shorts/EIw-QYAYL1I)
----
 
 ---
 
