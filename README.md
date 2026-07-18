@@ -198,6 +198,11 @@ During this project, I gained practical experience in:
 - Testing and debugging hardware and software simultaneously.
 
 ---
+# Project Photos 
+
+-image1 
+
+---
 
 # 🎥 Project Demonstration
 
