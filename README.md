@@ -201,7 +201,10 @@ During this project, I gained practical experience in:
 # Project Photos 
 
 -image1 
-
+(https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM%20image1.jpeg)
+---
+-image2
+(link2)
 ---
 
 # 🎥 Project Demonstration
