@@ -199,12 +199,11 @@ During this project, I gained practical experience in:
 
 ---
 # Project Photos 
+![Image1 ](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM%20image1.jpeg)
 
--image1 
-https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM%20image1.jpeg?raw=true
 ---
--image2
-(https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM_image_2.jpeg)
+![Image2](https://github.com/Sulfikarpk/Reverse_vending-_machine/blob/main/RVM_image_2.jpeg)
+
 ---
 
 # 🎥 Project Demonstration
